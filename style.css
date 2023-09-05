@@ -1,0 +1,49 @@
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 45px;
+    color: yellow;
+}
+body{
+    background-color:grey;
+}
+.first_raw,
+.second_raw{
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
+.pressed{
+    opacity: 0.5;
+}
+.first_raw button{
+    margin-left: 10px;
+    width: 15%;
+    height: 100px;
+    margin-top: 10%;
+
+}
+.second_raw button{
+    margin-left: 10px;
+    width: 15%;
+    height: 100px;
+}
+#yellow{
+    background-color: yellow;
+    border: 10px solid black;
+}
+.anim{
+    opacity: 0.5;
+}
+#red{
+    background-color: red;
+    border: 10px solid black;
+}
+#green{
+    background-color: green;
+    border: 10px solid black;
+}
+#blue{
+    background-color: blue;
+    border: 10px solid black;
+}
